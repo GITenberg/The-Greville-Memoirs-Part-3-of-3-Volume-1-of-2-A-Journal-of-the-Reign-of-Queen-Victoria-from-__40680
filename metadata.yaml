@@ -1,0 +1,39 @@
+_repo: The-Greville-Memoirs-Part-3-of-3-Volume-1-of-2-A-Journal-of-the-Reign-of-Queen-Victoria-from-__40680
+contributor:
+  creator:
+    editor:
+      agent_name: Reeve, Henry
+      alias: Reeves, Henry
+      birthdate: 1813
+      deathdate: 1895
+      gutenberg_agent_id: '7359'
+      url: http://www.gutenberg.org/2009/agents/7359
+covers:
+- cover_type: archival
+  image_path: 40680/40680-h/images/title.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Greville, Charles
+    alias: Greville, Charles Cavendish Fulke
+    birthdate: 1794
+    deathdate: 1865
+    gutenberg_agent_id: '26534'
+    url: http://www.gutenberg.org/2009/agents/26534
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Cavendish_Fulke_Greville
+description: ''
+gutenberg_issued: '2013-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901'
+title: "The Greville Memoirs, Part 3 (of 3), Volume 1 (of 2)\r\nA Journal of the Reign\
+  \ of Queen Victoria from 1852 to 1860"
+url: http://www.gutenberg.org/ebooks/40680
