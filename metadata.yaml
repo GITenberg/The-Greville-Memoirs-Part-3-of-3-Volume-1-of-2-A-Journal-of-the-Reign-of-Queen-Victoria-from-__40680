@@ -1,4 +1,5 @@
 _repo: The-Greville-Memoirs-Part-3-of-3-Volume-1-of-2-A-Journal-of-the-Reign-of-Queen-Victoria-from-__40680
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,10 +10,8 @@ contributor:
       gutenberg_agent_id: '7359'
       url: http://www.gutenberg.org/2009/agents/7359
 covers:
-- cover_type: archival
-  image_path: 40680/40680-h/images/title.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Greville, Charles
@@ -23,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26534
     wikipedia: http://en.wikipedia.org/wiki/Charles_Cavendish_Fulke_Greville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40680#The-Greville-Memoirs-Part-3-of-3-Volume-1-of-2-A-Journal-of-the-Reign-of-Queen-Victoria-from-_
 gutenberg_issued: '2013-09-14'
 gutenberg_type: Text
 identifiers:
